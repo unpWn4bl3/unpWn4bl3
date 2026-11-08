@@ -2,4 +2,4 @@ Script kiddie
 
 ## Certification
 
-![OSCP](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/195311433) [Verify](https://credentials.offsec.com/02f5428b-d228-4fa9-b6ec-70f2e5ffb341#acc.wMoH3prs)
+![OSCP](https://raw.githubusercontent.com/fg0x0/fg0x0/refs/heads/master/OSCP-Badge.png)
